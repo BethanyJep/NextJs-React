@@ -1,12 +1,13 @@
 {
-  "name": "NextJs-React",
+  "name": "InnCreator",
   "version": "1.0.0",
   "description": "https://reacttricks.com/learn-react-by-building-websites-with-next/",
   "main": "index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "next build && next export -o public"
   },
   "repository": {
     "type": "git",

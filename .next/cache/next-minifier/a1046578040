@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{AGzW:function(n,o,t){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/portfolio\",function(){return t(\"eAkX\")}])},eAkX:function(n,o,t){\"use strict\";t.r(o);var e=t(\"q1tI\"),u=t.n(e),i=t(\"5Yp1\"),r=u.a.createElement;o.default=function(){return r(i.a,null,r(\"h1\",null,\"Portfolio\"))}}},[[\"AGzW\",0,1]]]);"}
