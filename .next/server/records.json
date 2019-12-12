@@ -29,19 +29,26 @@
       "static\\BgWk0KIhP3LHFLOvk0LwZ\\pages\\about.js": 5,
       "static\\BgWk0KIhP3LHFLOvk0LwZ\\pages\\index.js": 6,
       "static\\BgWk0KIhP3LHFLOvk0LwZ\\pages\\portfolio.js": 7,
-      "static\\BgWk0KIhP3LHFLOvk0LwZ\\pages\\service.js": 8
+      "static\\BgWk0KIhP3LHFLOvk0LwZ\\pages\\service.js": 8,
+      "static\\P7ZZlbIaYY1RSGcgWgFfd\\pages\\_app.js": 9,
+      "static\\P7ZZlbIaYY1RSGcgWgFfd\\pages\\_document.js": 10,
+      "static\\P7ZZlbIaYY1RSGcgWgFfd\\pages\\_error.js": 11,
+      "static\\P7ZZlbIaYY1RSGcgWgFfd\\pages\\about.js": 12,
+      "static\\P7ZZlbIaYY1RSGcgWgFfd\\pages\\index.js": 13,
+      "static\\P7ZZlbIaYY1RSGcgWgFfd\\pages\\portfolio.js": 14,
+      "static\\P7ZZlbIaYY1RSGcgWgFfd\\pages\\service.js": 15
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      9
     ]
   }
 }
