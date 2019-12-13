@@ -1,12 +1,12 @@
-import Layout from '../components/Layout';
-import Gallery from '../components/Gallery';
+import Layout from '../components/layout';
+import Gallery from '../components/gallery';
 
 const Portfolio = () => {
   const images = [];
   const imageCount = 18;
 
   for (let i = imageCount; i > 0; i--) {
-    images.push(`/static/portfolio/${i}.png`);
+    images.push(`../static/portfolio/${i}.png`);
   }
 
   return (

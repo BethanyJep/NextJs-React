@@ -1,4 +1,4 @@
-import Layout from '../components/Layout';
+import Layout from '../components/layout';
 
 const Services = () => (
   <Layout title="My Passions">
@@ -6,7 +6,7 @@ const Services = () => (
     <div className="services">
       <div className="services-list">
         <div className="item">
-          <img src="/static/services/web.jpg" />
+          <img src="../static/services/web.jpg" />
           <h2>Web Development</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet rhoncus mi ac porta.</p>
         </div>
@@ -16,12 +16,12 @@ const Services = () => (
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet rhoncus mi ac porta.</p>
         </div>
         <div className="item">
-          <img src="/static/services/webdev.jpg" />
+          <img src="../static/services/webdev.jpg" />
           <h2>Data Science</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet rhoncus mi ac porta.</p>
         </div>
         <div className="item">
-          <img src="/static/services/events.jpg" />
+          <img src="../static/services/events.jpg" />
           <h2>Event Organization</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet rhoncus mi ac porta.</p>
         </div>

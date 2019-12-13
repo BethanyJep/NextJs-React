@@ -1,10 +1,10 @@
-import Layout from '../components/Layout';
+import Layout from '../components/layout';
 
 const About = () => (
   <Layout title="About Me">
     <h1>About Me</h1>
     <div className="about-text">
-      <img src="/static/studio.jpg" />
+      <img src="../static/studio.jpg" />
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut est euismod, iaculis ante efficitur, sodales
         nisl. Nulla non orci vitae nibh ullamcorper finibus. Morbi a nisl tempor, sodales ex quis, aliquet neque. Lorem

@@ -8,17 +8,17 @@ const Menu = () => (
       </Link>
     </li>
     <li>
-      <Link href="/service">
+      <Link href="../service">
         <a>Passions</a>
       </Link>
     </li>
     <li>
-      <Link href="/portfolio">
+      <Link href="../portfolio">
         <a>Portfolio</a>
       </Link>
     </li>
     <li>
-      <Link href="/about">
+      <Link href="../about">
         <a>About</a>
       </Link>
     </li>
